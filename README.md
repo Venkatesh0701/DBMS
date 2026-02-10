@@ -1,6 +1,6 @@
 # DBMS
 
-# Database Management Systems - Faculty Development Program
+# Database Management Systems 
 
 ## Comprehensive Presentation Slides with Presenter Notes
 
