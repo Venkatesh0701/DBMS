@@ -5,33 +5,6 @@
 
 ---
 
-## **Slide 1: Title Slide**
-
-### Database Management Systems
-### Faculty Development Program
-**Duration:** 4-5 hours 
-
-
-**Presenter Notes:**
-Welcome everyone to this comprehensive faculty development program on Database Management Systems. Over the next 4-5 hours, we'll explore both the foundational concepts that form the backbone of your DBMS course curriculum and the cutting-edge trends that are reshaping the database landscape in 2026. This session is designed to enhance your teaching methodology, provide practical insights from industry experience, and equip you with knowledge about modern database technologies that your students will encounter in their careers. Feel free to interrupt with questions at any point, as interactive discussion will enrich our learning experience.
-
----
-
-## **Slide 2: Session Agenda & Learning Outcomes**
-
-### **Session Overview**
-
-**Module 1 (60 mins):** Database Fundamentals & System Architecture  
-**Module 2 (60 mins):** ER Modeling & Relational Database Design  
-**Module 3 (50 mins):** SQL Deep Dive - From Basics to Advanced  
-**Module 4 (40 mins):** Transaction Management & Concurrency Control  
-**Module 5 (50 mins):** Query Optimization & Performance Tuning  
-**Module 6 (40 mins):** Current Trends: NoSQL, Cloud, NewSQL & Emerging Technologies
-
-**Breaks:** 15-minute breaks after Modules 2 and 4
-
-**Presenter Notes:**
-This agenda aligns directly with the ITPC05 course syllabus while extending into contemporary database technologies. Each module builds upon the previous one, mirroring how you would structure your semester-long course. The first five modules cover the core curriculum content, while Module 6 addresses the rapidly evolving database landscape. I've structured this to balance theoretical understanding with practical, industry-relevant insights. By the end of this session, you'll have concrete examples, teaching strategies, and hands-on demonstrations that you can immediately incorporate into your classrooms. We'll also discuss common student misconceptions and effective ways to address them.
 
 ---
 
