@@ -2,9 +2,6 @@
 
 # Database Management Systems 
 
-## Comprehensive Presentation Slides with Presenter Notes
-
-Based on the course syllabus for Database Management Systems (Course Code: ITPC05), I'll prepare a detailed 4-5 hour faculty development program covering both fundamental concepts and current database trends.
 
 ---
 
